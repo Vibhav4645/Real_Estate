@@ -8,6 +8,7 @@ import About from "./pages/About";
 import Header from "./components/Header";
 import PrivateRoute from "./components/privateRoute";
 
+
 export default function App() {
   return (
     <BrowserRouter>
